@@ -1,6 +1,6 @@
 # Apple Pay
 
-![Image] (https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA1LTEwLTEwLTEzLTM2LTg1MTg2NjllMTdjN2U2ODRlNzU5YzA3YTcwOTE1MWFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjcyLCJoZWlnaHQiOjMzMSwiZml0IjoiY292ZXIifX19)
+![Image](https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA1LTEwLTEwLTEzLTM2LTg1MTg2NjllMTdjN2U2ODRlNzU5YzA3YTcwOTE1MWFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjcyLCJoZWlnaHQiOjMzMSwiZml0IjoiY292ZXIifX19)
 
 ## What is the background of your company? What do they do? Who are their competitors?
 
