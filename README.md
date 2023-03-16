@@ -6,23 +6,9 @@
 
 Apple Inc. is a multinational technology company headquartered in Cupertino, California, USA. It is one of the world's largest technology companies, with a market cap exceeding $2 trillion as of 2021. Apple designs, develops, and sells consumer electronics, computer software, and online services. The company's hardware products include the iPhone, iPad, Mac, Apple Watch, and Apple TV. Its software products include macOS, iOS, iPadOS, watchOS, and tvOS. Online services offered by Apple include the App Store, Apple Music, Apple Arcade, iCloud, and Apple Pay.
 
-Apple's success can be attributed to its innovative products that have set new standards in the technology industry. The company's products are known for their high quality, design, and superior performance. Apple also has an unwavering focus on delivering a top-notch customer experience, which has helped it foster a loyal customer base.
-
-However, Apple has also faced criticism for its high pricing, closed ecosystem, and monopolistic practices. The company has been embroiled in legal battles with regulators over issues such as antitrust violations, privacy concerns, and tax avoidance.
-
-Despite its challenges, Apple continues to lead the way in the tech industry and is expected to remain a dominant player for years to come. Apple's top competitors include HP, Acer, Dell, Lenovo, Toshiba, Samsung, Xiaomi, vivo, and OPPO.
+Apple's success can be attributed to its innovative products that have set new standards in the technology industry. The company's products are known for their high quality, design, and superior performance. Apple also has an unwavering focus on delivering a top-notch customer experience, which has helped it foster a loyal customer base. Apple's top competitors include HP, Acer, Dell, Lenovo, Toshiba, Samsung, Xiaomi, vivo, and OPPO.
 
 ## How does this company use technology to their advantage? Why are they considered a FinTech company?
-
-Apple invests heavily in research and development to create innovative technologies that attract customers. They design and develop market-leading products such as iPhones, iPads, Apple Watch, and Macbook that offer unique features, advanced hardware, and software capabilities that give them an edge over other competitors.
-
-Apple is known for its integrated ecosystem that combines hardware and software seamlessly. They develop proprietary software such as iOS and macOS that optimizes their hardware performance, which results in a better customer experience.
-
-Apple leverages technology to create compelling marketing campaigns that resonate with consumers. They use social media, digital marketing, and video ads to promote their products, making it accessible to people worldwide.
-
-Apple uses technology to enhance its customer experience. With the launch of its retail stores in various parts of the world, Apple creates an immersive shopping experience that feels more like a community than a store. It has personalized support for customers through the Apple Care program, which provides 24/7 online and phone assistance.
-
-Apple collects data from its users to improve its products and services. They use this data to identify market trends, understand consumer behavior, and improve their products' features and functionalities, resulting in better customer satisfaction.
 
 Apple is considered a fintech company due to its various financial services, including Apple Pay, Apple Card, and Apple Cash. These services allow users to make payments, transfer money, and manage their finances directly through their Apple devices. In addition, Apple has also partnered with various financial institutions and offers financial management tools through its Wallet app. Apple's focus on incorporating financial technology into its products has led it to be recognized as a major player in the fintech industry.
 
